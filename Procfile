@@ -1,1 +1,1 @@
-web:gunicorn --pythonpath djangomessenger djangomessenger.wsgi --log-file-
+web:gunicorn --pythonpath djangomessenger msg.wsgi --log-file-
